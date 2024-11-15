@@ -6,7 +6,7 @@ const {
 
 
 export default {
-  darkMode: ["class"],
+  darkMode: ['media', 'class'],
   content: ["./index.html", "./src/**/*.{ts,tsx,js,jsx}"],
   theme: {
     extend: {
