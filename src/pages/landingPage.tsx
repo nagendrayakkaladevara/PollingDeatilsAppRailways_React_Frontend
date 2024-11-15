@@ -159,7 +159,7 @@ const LandingPage = () => {
                         </div>
                     )} */}
                     {result && (
-                        <Card className="">
+                        <Card className="mb-3">
                             <Table>
                                 <TableHeader>
                                     <TableRow>
